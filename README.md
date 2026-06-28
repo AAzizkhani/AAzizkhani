@@ -3,7 +3,6 @@
   <h3>Computer Engineering Student | Game Developer</h3>
 </div>
 
----
 
 ## About Me
 
@@ -13,7 +12,6 @@ I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** an
 - 🧠 Focused on technical problem solving
 - 💡 Enjoy creative and interactive projects
 
----
 
 ## Experience
 
@@ -21,7 +19,6 @@ I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** an
 *Friendzy*  
 `Tir 1402 – Tir 1403`
 
----
 
 ## Education
 
@@ -33,7 +30,6 @@ Bu-Ali Sina University, Hamedan
 Shahid Beheshti Talented School, Abhar  
 `Mordad 1398 – Khordad 1401`
 
----
 
 ## Skills & Tools
 
@@ -54,7 +50,6 @@ Shahid Beheshti Talented School, Abhar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![ICDL](https://img.shields.io/badge/ICDL-444444?style=for-the-badge)
 
----
 
 ## 🎮 Featured Projects
 
@@ -70,27 +65,14 @@ Shahid Beheshti Talented School, Abhar
 - [**World Cat Jam** (Friendzy)](https://friendzy.xyz/game/world-cat-jam/)
 - [**2248 Musical** (GameDistribution)](https://gamedistribution.com/games/2248-musical/)
 
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilichi&layout=compact&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=davilichi&show_icons=true&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## Contact
 
 - 📍 **Location:** Tehran
 - ✉️ **Email:** aliazizkhani90@gmail.com
-- 📞 **Tel:** [@AlliAzizkhani](https://t.me/AlliAzizkhani)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+ **Telegram:** [@AlliAzizkhani](https://t.me/AlliAzizkhani)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+ **YouTube** [Davilichi](https://www.youtube.com/@Davilichi)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+ **Instagram** [Davilichi Games](https://www.instagram.com/davilichi_games)
