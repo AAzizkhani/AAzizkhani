@@ -1,63 +1,49 @@
-<div align="center">
-  <h1>~ Hi, I'm Ali Azizkhani ~</h1>
-  <h3>Computer Engineering Student | Game Developer</h3>
-</div>
+<h1 align="center">Hi, I'm Ali Azizkhani 👋</h1>
+
+<h3 align="center">Computer Engineering Student | Game Developer</h3>
+
+<p align="center">
+  <a href="mailto:com.gmail@90aliazizkhani">Email</a> •
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a>
+</p>
 
 ---
 
-## About Me
-
-I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** and an aspiring **game developer** with **1+ year of hands-on experience** in **2D game development**.
-
-- 🎮 Interested in game design and gameplay programming
-- 🧠 Focused on technical problem solving
-- 💡 Enjoy creative and interactive projects
-
----
-
-## Experience
-
-**2D Game Programmer**  
-*Friendzy*  
-`Tir 1402 – Tir 1403`
-
----
-
-## Education
-
-**B.Sc. in Computer Engineering**  
-Bu-Ali Sina University, Hamedan  
-`Aban 1401 – Present`
-
-**Mathematics and Physics Diploma**  
-Shahid Beheshti Talented School, Abhar  
-`Mordad 1398 – Khordad 1401`
-
----
-
-## Skills & Tools
-
-### Game Engines
+### 🛠 Languages & Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Construct](https://img.shields.io/badge/Construct-000000?style=for-the-badge&logo=construct3&logoColor=white)
-
-### Languages & Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Other Tools
+![GameMaker](https://img.shields.io/badge/GameMaker-8FC7E8?style=for-the-badge&logo=gamemaker&logoColor=black)
+![Construct](https://img.shields.io/badge/Construct-482887?style=for-the-badge&logo=construct3&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![ICDL](https://img.shields.io/badge/ICDL-444444?style=for-the-badge)
 
 ---
 
-## Contact
+<table>
+  <tr>
+    <td>
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-- 📍 **Location:** Abhar
-- 📞 **Phone:** ۰۹۲۰۰۶۹۶۲۱۱
-- ✉️ **Email:** [com.gmail@90aliazizkhani](mailto:com.gmail@90aliazizkhani)
+---
+
+### 🚀 Projects
+در اینجا پروژه‌هایی که داشتی رو اضافه کن:
+
+- [نام پروژه ۱](لینک_پروژه_۱) - توضیحات کوتاه در مورد پروژه
+- [نام پروژه ۲](لینک_پروژه_۲) - توضیحات کوتاه در مورد پروژه
+- [نام پروژه ۳](لینک_پروژه_۳) - توضیحات کوتاه در مورد پروژه
+
+---
+
+### 🎓 Education & Experience
+- **2D Game Programmer** @ Friendzy (Tir 1402 – Tir 1403)
+- **Computer Engineering** @ Bu-Ali Sina University
