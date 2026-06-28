@@ -7,7 +7,6 @@
 ## About Me
 
 I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** and an aspiring **game developer** with **1+ year of hands-on experience** in **2D game development**.
-
 - 🎮 Interested in game design and gameplay programming
 - 🧠 Focused on technical problem solving
 - 💡 Enjoy creative and interactive projects
@@ -69,15 +68,19 @@ Shahid Beheshti Talented School, Abhar
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Tehran?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <a href="aliazizkhani90@gmail.com">
+  &nbsp;
+  <a href="mailto:90aliazizkhani@gmail.com">
     <img src="https://img.shields.io/badge/Email-90aliazizkhani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    &nbsp;
   <a href="https://t.me/AlliAzizkhani">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/@davilichi_games">
+    &nbsp;
+  <a href="https://www.instagram.com/davilichi_games">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    &nbsp;
   <a href="https://www.youtube.com/@Davilichi">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
