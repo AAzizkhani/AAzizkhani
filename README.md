@@ -13,24 +13,6 @@ I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** an
 - 💡 Enjoy creative and interactive projects
 
 
-## Experience
-
-**2D Game Programmer**  
-*Friendzy*  
-`Tir 1402 – Tir 1403`
-
-
-## Education
-
-**B.Sc. in Computer Engineering**  
-Bu-Ali Sina University, Hamedan  
-`Aban 1401 – Present`
-
-**Mathematics and Physics Diploma**  
-Shahid Beheshti Talented School, Abhar  
-`Mordad 1398 – Khordad 1401`
-
-
 ## Skills & Tools
 
 ### Game Engines
@@ -50,6 +32,23 @@ Shahid Beheshti Talented School, Abhar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![ICDL](https://img.shields.io/badge/ICDL-444444?style=for-the-badge)
 
+## Experience
+
+**2D Game Programmer**  
+*Friendzy*  
+`Tir 1402 – Tir 1403`
+
+
+## Education
+
+**B.Sc. in Computer Engineering**  
+Bu-Ali Sina University, Hamedan  
+`Aban 1401 – Present`
+
+**Mathematics and Physics Diploma**  
+Shahid Beheshti Talented School, Abhar  
+`Mordad 1398 – Khordad 1401`
+
 
 ## 🎮 Featured Projects
 
@@ -68,11 +67,18 @@ Shahid Beheshti Talented School, Abhar
 
 ## Contact
 
-- 📍 **Location:** Tehran
-- ✉️ **Email:** aliazizkhani90@gmail.com
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
- **Telegram:** [@AlliAzizkhani](https://t.me/AlliAzizkhani)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
- **YouTube** [Davilichi](https://www.youtube.com/@Davilichi)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
- **Instagram** [Davilichi Games](https://www.instagram.com/davilichi_games)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Abhar-607D8B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="aliazizkhani90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-90aliazizkhani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/AlliAzizkhani">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Davilichi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Davilichi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
