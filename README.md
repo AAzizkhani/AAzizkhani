@@ -68,14 +68,14 @@ Shahid Beheshti Talented School, Abhar
 ## Contact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Abhar-607D8B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Tehran?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="aliazizkhani90@gmail.com">
     <img src="https://img.shields.io/badge/Email-90aliazizkhani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/AlliAzizkhani">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@Davilichi">
+  <a href="https://www.instagram.com/@davilichi_games">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Davilichi">
