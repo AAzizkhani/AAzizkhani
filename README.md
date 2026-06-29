@@ -29,25 +29,6 @@ I'm a **Computer Engineering student** at **Bu-Ali Sina University, Hamedan** an
 ### Other Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![ICDL](https://img.shields.io/badge/ICDL-444444?style=for-the-badge)
-
-## Experience
-
-**2D Game Programmer**  
-*Friendzy*  
-`Tir 1402 – Tir 1403`
-
-
-## Education
-
-**B.Sc. in Computer Engineering**  
-Bu-Ali Sina University, Hamedan  
-`Aban 1401 – Present`
-
-**Mathematics and Physics Diploma**  
-Shahid Beheshti Talented School, Abhar  
-`Mordad 1398 – Khordad 1401`
-
 
 ## 🎮 Featured Projects
 
